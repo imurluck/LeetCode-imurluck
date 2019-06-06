@@ -31,6 +31,6 @@ public class GenerateParenthese {
 
     public static void main(String[] args) {
         GenerateParenthese solution = new GenerateParenthese();
-        System.out.println(solution.generateParenthese(2));
+        System.out.println(solution.generateParenthese(1));
     }
 }
