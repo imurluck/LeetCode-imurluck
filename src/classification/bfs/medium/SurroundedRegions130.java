@@ -1,20 +1,13 @@
 package classification.bfs.medium;
 
+import model.Point;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
 public class SurroundedRegions130 {
-
-    class Point {
-        int i;
-        int j;
-        public Point(int i, int j) {
-            this.i = i;
-            this.j = j;
-        }
-    }
 
     public void solve(char[][] board) {
         for (int i = 0; i < board.length; i++) {
