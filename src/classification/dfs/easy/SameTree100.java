@@ -1,4 +1,4 @@
-package classification.dfs;
+package classification.dfs.easy;
 
 import model.TreeNode;
 
