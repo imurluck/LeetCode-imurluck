@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4cf40e62-f510-4264-bc1f-d3bb60f03460" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/TreeNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +16,11 @@
     <session id="1211165704">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="5" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
@@ -28,14 +29,14 @@
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="76" />
+          <entry key="java" value="83" />
           <entry key="kt" value="22" />
           <entry key="xml" value="2" />
         </counts>
@@ -43,7 +44,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="76" />
+          <entry key="JAVA" value="83" />
           <entry key="Kotlin" value="22" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="2" />
@@ -52,16 +53,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="18" />
-          <entry key="java" value="26362" />
+          <entry key="java" value="27725" />
           <entry key="kt" value="6832" />
-          <entry key="txt" value="94" />
+          <entry key="txt" value="98" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="26362" />
+          <entry key="JAVA" value="27725" />
           <entry key="Kotlin" value="6832" />
-          <entry key="PLAIN_TEXT" value="112" />
+          <entry key="PLAIN_TEXT" value="116" />
         </counts>
       </usages-collector>
     </session>
@@ -69,10 +70,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/IncreasingOrderSearchTree897.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/SortedListToBinarySearchTree109.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="579">
-              <caret line="41" column="49" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="41" selection-end-column="49" />
+            <state relative-caret-position="264">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,22 +82,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/BuildBinaryTree105.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/PathSum113.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/BuildBinaryTree106.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="293">
+              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,37 +94,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/SortedListToBinarySearchTree109.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/FlattenBinaryToList114.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="37" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+            <state relative-caret-position="242">
+              <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/ListNode.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/BinaryTreePath257.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="-242">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/SortedArrayToBinarySearchTree108.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/SymmetricTree101.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/SameTree100.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -144,13 +134,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/lang/Integer.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/PathSum112.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17512">
-              <caret line="829" selection-start-line="829" selection-end-line="829" />
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/LeafSimilarTree872.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="548">
+              <caret line="48" column="49" selection-start-line="40" selection-start-column="8" selection-end-line="48" selection-end-column="49" />
               <folding>
-                <element signature="e#33891#33892#0" expanded="true" />
-                <element signature="e#33919#33920#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -201,8 +199,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/easy/ValidParentheses_20.kt" />
-        <option value="$PROJECT_DIR$/src/easy/LongestCommonPrefix_14.kt" />
         <option value="$PROJECT_DIR$/src/easy/ImplementStrStr_28.kt" />
         <option value="$PROJECT_DIR$/src/model/ListNode.kt" />
         <option value="$PROJECT_DIR$/src/easy/MergeTwoSortedLists_21.kt" />
@@ -224,7 +220,6 @@
         <option value="$PROJECT_DIR$/src/interview/medium/GenerateParenthese.java" />
         <option value="$PROJECT_DIR$/src/interview/medium/MergeKSortedList.java" />
         <option value="$PROJECT_DIR$/src/interview/medium/DivideTwoIntegers.java" />
-        <option value="$PROJECT_DIR$/src/model/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/classification/bfs/easy/SymmetricTree101.java" />
         <option value="$PROJECT_DIR$/src/classification/bfs/easy/TreeBottomUpTraversal107.java" />
         <option value="$PROJECT_DIR$/src/classification/bfs/easy/ZigzagTreeOrderTraversal103.java" />
@@ -252,6 +247,9 @@
         <option value="$PROJECT_DIR$/src/classification/dfs/medium/BuildBinaryTree105.java" />
         <option value="$PROJECT_DIR$/src/classification/dfs/medium/BuildBinaryTree106.java" />
         <option value="$PROJECT_DIR$/src/classification/dfs/medium/SortedListToBinarySearchTree109.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/medium/PathSum113.java" />
+        <option value="$PROJECT_DIR$/src/model/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/medium/FlattenBinaryToList114.java" />
       </list>
     </option>
   </component>
@@ -262,10 +260,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="203" />
-    <option name="y" value="46" />
-    <option name="width" value="1539" />
-    <option name="height" value="1034" />
+    <option name="x" value="330" />
+    <option name="y" value="49" />
+    <option name="width" value="1626" />
+    <option name="height" value="1031" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -276,8 +274,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -334,12 +330,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574953173861" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575043387869" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -359,7 +357,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BuildBinaryTree106">
+  <component name="RunManager" selected="Application.FlattenBinaryToList114">
     <configuration name="BuildBinaryTree106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classification.dfs.medium.BuildBinaryTree106" />
       <module name="LeetCode" />
@@ -373,12 +371,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FloodFill733" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classification.dfs.easy.FloodFill733" />
+    <configuration name="FlattenBinaryToList114" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classification.dfs.medium.FlattenBinaryToList114" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classification.dfs.easy.*" />
+          <option name="PATTERN" value="classification.dfs.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -426,19 +424,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FloodFill733" />
       <item itemvalue="Application.LeafSimiliarTree872" />
       <item itemvalue="Application.IncreasingOrderSearchTree897" />
       <item itemvalue="Application.ValidateBinaryTree98" />
       <item itemvalue="Application.BuildBinaryTree106" />
+      <item itemvalue="Application.FlattenBinaryToList114" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlattenBinaryToList114" />
         <item itemvalue="Application.BuildBinaryTree106" />
         <item itemvalue="Application.ValidateBinaryTree98" />
         <item itemvalue="Application.IncreasingOrderSearchTree897" />
         <item itemvalue="Application.LeafSimiliarTree872" />
-        <item itemvalue="Application.FloodFill733" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +478,8 @@
       <workItem from="1574693164869" duration="2257000" />
       <workItem from="1574778436954" duration="3590000" />
       <workItem from="1574864923000" duration="3716000" />
-      <workItem from="1574951042737" duration="1985000" />
+      <workItem from="1574951042737" duration="2176000" />
+      <workItem from="1575040159820" duration="3614000" />
     </task>
     <task id="LOCAL-00001" summary="[bfs]: 101、107">
       <created>1573745315809</created>
@@ -552,17 +551,24 @@
       <option name="project" value="LOCAL" />
       <updated>1574869589341</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="[dfs]: 106, 109">
+      <created>1574953195516</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574953195516</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102940000" />
+    <option name="totallyTimeSpent" value="106745000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="430" y="46" width="1539" height="1034" extended-state="0" />
+    <frame x="330" y="49" width="1626" height="1031" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24382098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2260101" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -572,7 +578,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2237927" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.32768363" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.42857143" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -610,7 +616,8 @@
     <MESSAGE value="[dfs]: 110, 733" />
     <MESSAGE value="[dfs]: 872, 897" />
     <MESSAGE value="[dfs]: 98, 105" />
-    <option name="LAST_COMMIT_MESSAGE" value="[dfs]: 98, 105" />
+    <MESSAGE value="[dfs]: 106, 109" />
+    <option name="LAST_COMMIT_MESSAGE" value="[dfs]: 106, 109" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -625,30 +632,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/medium/LongestSubstringNoRepeasting3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/easy/RemoveDuplicatesFromSortArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/medium/LetterCombinationsOfPhoneNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/medium/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
@@ -883,38 +866,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/ValidateBinaryTree98.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="264">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/LeafSimilarTree872.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/IncreasingOrderSearchTree897.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="48" column="49" selection-start-line="40" selection-start-column="8" selection-end-line="48" selection-end-column="49" />
+        <state relative-caret-position="836">
+          <caret line="41" column="49" selection-start-line="33" selection-start-column="8" selection-end-line="41" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/ValidateBinaryTree98.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/BuildBinaryTree105.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="528">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
           <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/SameTree100.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/BuildBinaryTree106.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="418">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -922,6 +914,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/SymmetricTree101.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -953,57 +952,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/BuildBinaryTree105.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/SortedListToBinarySearchTree109.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        <state relative-caret-position="264">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/SymmetricTree101.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/PathSum113.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/BinaryTreePath257.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/SameTree100.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/IncreasingOrderSearchTree897.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/PathSum112.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="41" column="49" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="41" selection-end-column="49" />
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/LeafSimilarTree872.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="48" column="49" selection-start-line="40" selection-start-column="8" selection-end-line="48" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/BuildBinaryTree106.java">
+    <entry file="file://$PROJECT_DIR$/src/model/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="220">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/FlattenBinaryToList114.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/SortedListToBinarySearchTree109.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="242">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
         </state>
       </provider>
     </entry>
