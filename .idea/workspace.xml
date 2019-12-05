@@ -15,9 +15,9 @@
     <session id="1211165704">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="32" />
+          <entry key="project.closed" value="33" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.10" value="6" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.13" value="2" />
@@ -29,14 +29,14 @@
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="33" />
+          <entry key="project.opened" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="92" />
+          <entry key="java" value="94" />
           <entry key="kt" value="22" />
           <entry key="xml" value="2" />
         </counts>
@@ -44,7 +44,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="92" />
+          <entry key="JAVA" value="94" />
           <entry key="Kotlin" value="22" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="2" />
@@ -53,16 +53,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="18" />
-          <entry key="java" value="30708" />
+          <entry key="java" value="31270" />
           <entry key="kt" value="6832" />
-          <entry key="txt" value="127" />
+          <entry key="txt" value="136" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="30708" />
+          <entry key="JAVA" value="31270" />
           <entry key="Kotlin" value="6832" />
-          <entry key="PLAIN_TEXT" value="145" />
+          <entry key="PLAIN_TEXT" value="154" />
         </counts>
       </usages-collector>
     </session>
@@ -70,28 +70,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/FirstBadVersion278.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/IntersectionTwoArray350.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="440">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/IntersectionTwoArray349.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/ValidPerfectSquare367.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            <state relative-caret-position="176">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/IntersectionTwoArray350.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/GussNumber374.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="642">
-              <caret line="37" column="22" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="37" selection-end-column="22" />
+            <state relative-caret-position="110">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,7 +103,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
+            <state relative-caret-position="11264">
               <caret line="554" column="13" selection-start-line="554" selection-start-column="13" selection-end-line="554" selection-end-column="13" />
             </state>
           </provider>
@@ -108,7 +112,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/util/Set.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
+            <state relative-caret-position="1342">
               <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
             </state>
           </provider>
@@ -189,8 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/interview/medium/LongestSubstringNoRepeasting3.java" />
-        <option value="$PROJECT_DIR$/src/interview/hard/MedianOfTwoSortedArrays.java" />
         <option value="$PROJECT_DIR$/src/interview/medium/LongestPalindromicSubstring.java" />
         <option value="$PROJECT_DIR$/src/interview/medium/Atoi.java" />
         <option value="$PROJECT_DIR$/src/interview/hard/RegularExpressionMatching.java" />
@@ -240,6 +242,8 @@
         <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/FirstBadVersion278.java" />
         <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/IntersectionTwoArray439.java" />
         <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/IntersectionTwoArray350.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/ValidPerfectSquare367.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/GussNumber374.java" />
       </list>
     </option>
   </component>
@@ -250,8 +254,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="296" />
-    <option name="y" value="50" />
+    <option name="x" value="480" />
+    <option name="y" value="49" />
     <option name="width" value="1444" />
     <option name="height" value="1017" />
   </component>
@@ -264,8 +268,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,12 +316,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575472947911" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575558913105" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -344,20 +348,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoSumInSortedArray167">
-    <configuration name="BuildBinaryTree106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classification.dfs.medium.BuildBinaryTree106" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classification.dfs.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ValidPerfectSquare367">
     <configuration name="FlattenBinaryToList114" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classification.dfs.medium.FlattenBinaryToList114" />
       <module name="LeetCode" />
@@ -410,20 +401,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidPerfectSquare367" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classification.binarySearch.easy.ValidPerfectSquare367" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classification.binarySearch.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.BuildBinaryTree106" />
       <item itemvalue="Application.FlattenBinaryToList114" />
       <item itemvalue="Application.SearchInsertPosition35" />
       <item itemvalue="Application.SqrtX69" />
       <item itemvalue="Application.TwoSumInSortedArray167" />
+      <item itemvalue="Application.ValidPerfectSquare367" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidPerfectSquare367" />
         <item itemvalue="Application.TwoSumInSortedArray167" />
         <item itemvalue="Application.SqrtX69" />
         <item itemvalue="Application.SearchInsertPosition35" />
         <item itemvalue="Application.FlattenBinaryToList114" />
-        <item itemvalue="Application.BuildBinaryTree106" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +473,8 @@
       <workItem from="1575040159820" duration="3650000" />
       <workItem from="1575297722458" duration="5642000" />
       <workItem from="1575384077612" duration="2394000" />
-      <workItem from="1575470837123" duration="2075000" />
+      <workItem from="1575470837123" duration="2195000" />
+      <workItem from="1575557318506" duration="1790000" />
     </task>
     <task id="LOCAL-00001" summary="[bfs]: 101、107">
       <created>1573745315809</created>
@@ -569,17 +574,24 @@
       <option name="project" value="LOCAL" />
       <updated>1575386454832</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="[binarySearch]: 349, 350">
+      <created>1575473012902</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1575473012902</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116892000" />
+    <option name="totallyTimeSpent" value="118802000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="264" y="48" width="1444" height="1017" extended-state="0" />
+    <frame x="480" y="49" width="1444" height="1017" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2617689" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26462197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -588,8 +600,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3276644" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.24738675" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2764977" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31451613" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -631,7 +643,8 @@
     <MESSAGE value="[dfs]: 113,114" />
     <MESSAGE value="[binarySearch]: 35,69" />
     <MESSAGE value="[binarySearch]: 167,278" />
-    <option name="LAST_COMMIT_MESSAGE" value="[binarySearch]: 167,278" />
+    <MESSAGE value="[binarySearch]: 349, 350" />
+    <option name="LAST_COMMIT_MESSAGE" value="[binarySearch]: 349, 350" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -646,20 +659,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jdk1.7.0_80/src.zip!/java/util/regex/Matcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20108">
-          <caret line="947" column="18" selection-start-line="947" selection-start-column="18" selection-end-line="947" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11594">
-          <caret line="566" column="17" selection-start-line="566" selection-start-column="17" selection-end-line="566" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9900">
@@ -933,6 +932,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/FirstBadVersion278.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/IntersectionTwoArray349.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11264">
+          <caret line="554" column="13" selection-start-line="554" selection-start-column="13" selection-end-line="554" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/SameTree100.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -974,38 +1001,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/FirstBadVersion278.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/IntersectionTwoArray349.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="554" column="13" selection-start-line="554" selection-start-column="13" selection-end-line="554" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/IntersectionTwoArray350.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="37" column="22" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="37" selection-end-column="22" />
+        <state relative-caret-position="440">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/ValidPerfectSquare367.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/GussNumber374.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
