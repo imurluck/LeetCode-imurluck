@@ -1,4 +1,4 @@
-package classification.binarySearch.easy;
+package classification.binarySearch.midium;
 
 public class DivideTwoInteger29 {
 
