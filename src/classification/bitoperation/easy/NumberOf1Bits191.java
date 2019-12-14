@@ -1,6 +1,6 @@
 package classification.bitoperation.easy;
 
-public class NumberOf1Bits {
+public class NumberOf1Bits191 {
 
     public int hammingWeight(int n) {
         int count = 0;

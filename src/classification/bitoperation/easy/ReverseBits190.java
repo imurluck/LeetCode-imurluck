@@ -1,6 +1,6 @@
 package classification.bitoperation.easy;
 
-public class ReverseBits {
+public class ReverseBits190 {
 
     public int reverseBits(int n) {
 
@@ -14,7 +14,7 @@ public class ReverseBits {
     }
 
     public static void main(String[] args) {
-        ReverseBits reverseBits = new ReverseBits();
+        ReverseBits190 reverseBits = new ReverseBits190();
         System.out.println(reverseBits.reverseBits(0b00000010100101000001111010011100));
     }
 }
