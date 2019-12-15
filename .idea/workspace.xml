@@ -17,33 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/bfs/medium/CourseSchedule207.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/bfs/medium/CourseSchedulePlus210.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/bfs/medium/IslandCount200.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classification/bfs/medium/RightSideTree199.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
@@ -97,11 +70,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/ReverseBits.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/ReverseBits190.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/NumberOf1Bits191.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/PowerOfTwo231.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="6" />
+              <folding>
+                <element signature="e#159#160#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/MissingNumber268.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="11" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -125,10 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/easy/PalindromeNumber.kt" />
-        <option value="$PROJECT_DIR$/src/easy/RomanToInteger.kt" />
-        <option value="$PROJECT_DIR$/src/easy/ValidParentheses.kt" />
-        <option value="$PROJECT_DIR$/src/easy/RemoveElement.kt" />
         <option value="$PROJECT_DIR$/src/easy/ValidParentheses_20.kt" />
         <option value="$PROJECT_DIR$/src/easy/LongestCommonPrefix_14.kt" />
         <option value="$PROJECT_DIR$/src/easy/ImplementStrStr_28.kt" />
@@ -176,6 +175,10 @@
         <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/PeakOfMountain852.java" />
         <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/DivideTwoInteger29.java" />
         <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/ReverseBits.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/NumberOf1Bits.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/NumberOf1Bits191.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/PowerOfTwo231.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/MissingNumber268.java" />
       </list>
     </option>
   </component>
@@ -194,7 +197,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,6 +233,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseBits">
+  <component name="RunManager" selected="Application.ReverseBits190">
     <configuration name="BinaryTreePath257" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classification.dfs.easy.BinaryTreePath257" />
       <module name="LeetCode" />
@@ -285,8 +288,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classification.bitoperation.easy.ReverseBits" />
+    <configuration name="ReverseBits190" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classification.bitoperation.easy.ReverseBits190" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -329,11 +332,11 @@
       <item itemvalue="Application.BinaryTreePath257" />
       <item itemvalue="Application.RotateDigits788" />
       <item itemvalue="Application.DivideTwoInteger29" />
-      <item itemvalue="Application.ReverseBits" />
+      <item itemvalue="Application.ReverseBits190" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseBits" />
+        <item itemvalue="Application.ReverseBits190" />
         <item itemvalue="Application.DivideTwoInteger29" />
         <item itemvalue="Application.RotateDigits788" />
         <item itemvalue="Application.BinaryTreePath257" />
@@ -384,7 +387,8 @@
       <workItem from="1575196873923" duration="3072000" />
       <workItem from="1575721563527" duration="1677000" />
       <workItem from="1575798952147" duration="2800000" />
-      <workItem from="1576322868451" duration="894000" />
+      <workItem from="1576322868451" duration="1163000" />
+      <workItem from="1576404784340" duration="514000" />
     </task>
     <task id="LOCAL-00001" summary="[bfs]: 111, 429">
       <created>1573828908749</created>
@@ -449,11 +453,25 @@
       <option name="project" value="LOCAL" />
       <updated>1575803498057</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="[bfs]: 190, 191">
+      <created>1576324183431</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1576324183431</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[bit]: 190, 191">
+      <created>1576324255681</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576324255681</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81018000" />
+    <option name="totallyTimeSpent" value="81801000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -468,7 +486,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22103004" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22389127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -477,7 +495,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3746988" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.27108434" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3554217" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -485,7 +503,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.26506025" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.3192771" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32650602" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -513,7 +531,9 @@
     <MESSAGE value="[bfs]: 337,394" />
     <MESSAGE value="[bfs]: 704,788" />
     <MESSAGE value="[bfs]: 29, 852" />
-    <option name="LAST_COMMIT_MESSAGE" value="[bfs]: 29, 852" />
+    <MESSAGE value="[bfs]: 190, 191" />
+    <MESSAGE value="[bit]: 190, 191" />
+    <option name="LAST_COMMIT_MESSAGE" value="[bit]: 190, 191" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -528,19 +548,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/medium/LongestSubstringNoRepeasting3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/easy/RemoveDuplicatesFromSortArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -809,6 +816,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/DivideTwoInteger29.java" />
     <entry file="file://$PROJECT_DIR$/src/classification/bfs/medium/CourseSchedulePlus210.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -858,13 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/DivideTwoInteger29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/PeakOfMountain852.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -872,10 +873,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/ReverseBits.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/ReverseBits190.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/NumberOf1Bits191.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/PowerOfTwo231.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="6" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/MissingNumber268.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
