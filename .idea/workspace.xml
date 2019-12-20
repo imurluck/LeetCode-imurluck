@@ -15,9 +15,9 @@
     <session id="1211165704">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="42" />
+          <entry key="project.closed" value="43" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="8" />
+          <entry key="project.open.time.10" value="9" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="5" />
           <entry key="project.open.time.13" value="3" />
@@ -29,14 +29,14 @@
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="7" />
           <entry key="project.open.time.9" value="7" />
-          <entry key="project.opened" value="43" />
+          <entry key="project.opened" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="120" />
+          <entry key="java" value="122" />
           <entry key="kt" value="22" />
           <entry key="xml" value="2" />
         </counts>
@@ -44,7 +44,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="120" />
+          <entry key="JAVA" value="122" />
           <entry key="Kotlin" value="22" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="2" />
@@ -53,16 +53,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
-          <entry key="java" value="38768" />
+          <entry key="java" value="38950" />
           <entry key="kt" value="6832" />
-          <entry key="txt" value="201" />
+          <entry key="txt" value="206" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="38768" />
+          <entry key="JAVA" value="38950" />
           <entry key="Kotlin" value="6832" />
-          <entry key="PLAIN_TEXT" value="221" />
+          <entry key="PLAIN_TEXT" value="226" />
         </counts>
       </usages-collector>
     </session>
@@ -70,27 +70,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/MajorElement169.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/NumberOf1Bits191.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/BinaryWatch401.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="374">
               <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -102,17 +84,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/DecimalToHex405.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            <state relative-caret-position="176">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/HammingDistance461.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/NumberComplement476.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/HammingDistance461.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/AlternatingBits693.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="132">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -120,7 +120,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
+            <state relative-caret-position="30360">
               <caret line="1443" column="22" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="22" />
             </state>
           </provider>
@@ -192,8 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/classification/bfs/medium/RightSideTree199.java" />
-        <option value="$PROJECT_DIR$/src/classification/bfs/medium/SurroundedRegions130.java" />
         <option value="$PROJECT_DIR$/src/model/Point.java" />
         <option value="$PROJECT_DIR$/src/classification/bfs/medium/IslandCount200.java" />
         <option value="$PROJECT_DIR$/src/classification/bfs/medium/CourseSchedule207.java" />
@@ -243,6 +241,8 @@
         <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/BinaryWatch401.java" />
         <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/DecimalToHex405.java" />
         <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/HammingDistance461.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/NumberComplement476.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/AlternatingBits693.java" />
       </list>
     </option>
   </component>
@@ -253,8 +253,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="429" />
-    <option name="y" value="90" />
+    <option name="x" value="149" />
+    <option name="y" value="84" />
     <option name="width" value="1523" />
     <option name="height" value="913" />
   </component>
@@ -268,7 +268,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -317,12 +316,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576770227021" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576855017643" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -482,7 +482,8 @@
       <workItem from="1576241379620" duration="954000" />
       <workItem from="1576507894842" duration="1405000" />
       <workItem from="1576593212184" duration="1631000" />
-      <workItem from="1576768992486" duration="1235000" />
+      <workItem from="1576768992486" duration="1288000" />
+      <workItem from="1576854367131" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="[bfs]: 101、107">
       <created>1573745315809</created>
@@ -659,17 +660,24 @@
       <option name="project" value="LOCAL" />
       <updated>1576594825918</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="[binarySearch]: 405,461">
+      <created>1576770262419</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1576770262419</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145236000" />
+    <option name="totallyTimeSpent" value="145921000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="429" y="90" width="1523" height="913" extended-state="0" />
+    <frame x="687" y="71" width="1523" height="913" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21742067" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22012153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -679,7 +687,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2918848" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.37696335" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37696335" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -707,7 +715,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[bfs]: 101、107" />
     <MESSAGE value="[bfs]: 103、127(未做出来)" />
     <MESSAGE value="[bfs]: 130、133" />
     <MESSAGE value="[bfs]: 199,200" />
@@ -732,7 +739,8 @@
     <MESSAGE value="[binarySearch]: 136, 169" />
     <MESSAGE value="[binarySearch]: 342,371" />
     <MESSAGE value="[binarySearch]: 389,401" />
-    <option name="LAST_COMMIT_MESSAGE" value="[binarySearch]: 389,401" />
+    <MESSAGE value="[binarySearch]: 405,461" />
+    <option name="LAST_COMMIT_MESSAGE" value="[binarySearch]: 405,461" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -747,20 +755,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/classification/bfs/easy/MinDeepTree111.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/FloodFill733.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/ValidateBinaryTree98.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1034,6 +1028,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/MajorElement169.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/NumberOf1Bits191.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/BinaryWatch401.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/DecimalToHex405.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30360">
+          <caret line="1443" column="22" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/PathSum112.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -1068,48 +1100,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/BinaryWatch401.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/HammingDistance461.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="132">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/DecimalToHex405.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/MajorElement169.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/NumberOf1Bits191.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/NumberComplement476.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/lang/Integer.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/AlternatingBits693.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="1443" column="22" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/HammingDistance461.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="132">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
         </state>
       </provider>
     </entry>
