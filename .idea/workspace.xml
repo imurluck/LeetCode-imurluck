@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4cf40e62-f510-4264-bc1f-d3bb60f03460" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classification/bitoperation/easy/MajorElement169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classification/bitoperation/easy/MajorElement169.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classification/bitoperation/easy/MissingNumber268.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classification/bitoperation/easy/MissingNumber268.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classification/bitoperation/easy/NumberOf1Bits191.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classification/bitoperation/easy/NumberOf1Bits191.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classification/bitoperation/easy/PowerOfTwo231.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classification/bitoperation/easy/PowerOfTwo231.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classification/bitoperation/easy/ReverseBits190.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classification/bitoperation/easy/ReverseBits190.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classification/bitoperation/easy/SingleNumber136.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classification/bitoperation/easy/SingleNumber136.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,84 +11,132 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1211165704">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="44" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="9" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="7" />
+          <entry key="project.open.time.9" value="7" />
+          <entry key="project.opened" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="125" />
+          <entry key="kt" value="22" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="125" />
+          <entry key="Kotlin" value="22" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="20" />
+          <entry key="java" value="39476" />
+          <entry key="kt" value="6832" />
+          <entry key="txt" value="212" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="39476" />
+          <entry key="Kotlin" value="6832" />
+          <entry key="PLAIN_TEXT" value="232" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/LetterCasePermutation784.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/NumberComplement476.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#782#783#0" expanded="true" />
-                <element signature="e#832#833#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="242">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/MajorElement169.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/AlternatingBits693.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="154">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/MissingNumber268.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/medium/SingleNumber137.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/NumberOf1Bits191.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/PowerOfTwo231.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/ReverseBits190.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/SingleNumber136.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="198">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/medium/Subsets78.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/medium/RepeatedDNA187.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="396">
+              <caret line="18" column="39" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="18" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/util/Set.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="639">
+              <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30360">
+              <caret line="1443" column="22" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/PathSum112.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/LeafSimilarTree872.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="48" column="49" selection-start-line="40" selection-start-column="8" selection-end-line="48" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,23 +145,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/bfs/easy/MaxDeepTree559.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="1002" column="24" selection-start-line="1002" selection-start-column="24" selection-end-line="1002" selection-end-column="24" />
-              <folding>
-                <element signature="e#38314#38315#0" expanded="true" />
-                <element signature="e#38353#38354#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="880">
+              <caret line="44" column="43" selection-start-line="38" selection-start-column="8" selection-end-line="44" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/bfs/easy/ZigzagTreeOrderTraversal103.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="452" column="18" selection-start-line="452" selection-start-column="18" selection-end-line="452" selection-end-column="18" />
+            <state relative-caret-position="528">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,6 +177,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -143,65 +189,71 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/easy/MergeTwoSortedLists_21.kt" />
-        <option value="$PROJECT_DIR$/src/extensions/ListNode.kt" />
-        <option value="$PROJECT_DIR$/src/medium/AddTwoNumbers.kt" />
-        <option value="$PROJECT_DIR$/src/medium/BasicCalculator.kt" />
-        <option value="$PROJECT_DIR$/src/interview/medium/LongestSubstringNoRepeasting3.java" />
-        <option value="$PROJECT_DIR$/src/interview/hard/MedianOfTwoSortedArrays.java" />
-        <option value="$PROJECT_DIR$/src/interview/medium/LongestPalindromicSubstring.java" />
-        <option value="$PROJECT_DIR$/src/interview/medium/Atoi.java" />
-        <option value="$PROJECT_DIR$/src/interview/hard/RegularExpressionMatching.java" />
-        <option value="$PROJECT_DIR$/src/interview/medium/ContainerWithMostWater.java" />
-        <option value="$PROJECT_DIR$/src/interview/easy/RemoveDuplicatesFromSortArray.java" />
-        <option value="$PROJECT_DIR$/src/interview/medium/LetterCombinationsOfPhoneNumber.java" />
-        <option value="$PROJECT_DIR$/src/interview/medium/_3Sum.java" />
-        <option value="$PROJECT_DIR$/src/interview/medium/ThreeSum.java" />
-        <option value="$PROJECT_DIR$/src/model/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/interview/medium/RemoveNthNodeFromEndOfList.java" />
-        <option value="$PROJECT_DIR$/src/interview/medium/GenerateParenthese.java" />
-        <option value="$PROJECT_DIR$/src/interview/medium/MergeKSortedList.java" />
-        <option value="$PROJECT_DIR$/src/interview/medium/DivideTwoIntegers.java" />
+        <option value="$PROJECT_DIR$/src/classification/bfs/medium/CourseSchedule207.java" />
+        <option value="$PROJECT_DIR$/src/classification/bfs/medium/CourseSchedulePlus210.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/SameTree100.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/SymmetricTree101.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/easy/SortedArrayToBinarySearchTree108.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/easy/BanlanceBinaryTree110.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/easy/BalanceBinaryTree110.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/medium/MaxAeraOfIsland695.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/easy/FloodFill733.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/easy/LeafSimiliarTree872.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/easy/LeafSimilarTree872.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/easy/IncreasingOrderSearchTree897.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/medium/ValidateBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/medium/ValidateBinaryTree98.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/medium/BuildBinaryTree105.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/medium/BuildBinaryTree106.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/medium/SortedListToBinarySearchTree109.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/medium/PathSum113.java" />
         <option value="$PROJECT_DIR$/src/model/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/classification/bfs/easy/SymmetricTree101.java" />
-        <option value="$PROJECT_DIR$/src/classification/bfs/easy/TreeBottomUpTraversal107.java" />
-        <option value="$PROJECT_DIR$/src/classification/bfs/easy/MinDeepTree111.java" />
-        <option value="$PROJECT_DIR$/src/model/Node.java" />
-        <option value="$PROJECT_DIR$/src/classification/bfs/easy/NTreeTraversal429.java" />
-        <option value="$PROJECT_DIR$/src/classification/bfs/easy/MaxDeepTree559.java" />
-        <option value="$PROJECT_DIR$/src/model/Employee.java" />
-        <option value="$PROJECT_DIR$/src/classification/bfs/easy/ImportEmployee690.java" />
-        <option value="$PROJECT_DIR$/src/classification/bfs/easy/TreeLevelTraversal102.java" />
-        <option value="$PROJECT_DIR$/src/classification/bfs/easy/SmallestLetterThanTarget744.java" />
-        <option value="$PROJECT_DIR$/src/classification/dfs/easy/PathSum112.java" />
-        <option value="$PROJECT_DIR$/src/classification/dfs/easy/BinaryTreePath257.java" />
-        <option value="$PROJECT_DIR$/src/classification/dfs/Node.java" />
-        <option value="$PROJECT_DIR$/src/classification/dfs/medium/PopulatingNextRightNode116.java" />
-        <option value="$PROJECT_DIR$/src/classification/dfs/medium/PopulatingNextRightNode117.java" />
-        <option value="$PROJECT_DIR$/src/classification/dfs/medium/HouseRobber337.java" />
-        <option value="$PROJECT_DIR$/src/classification/bfs/medium/DecodeString394.java" />
-        <option value="$PROJECT_DIR$/src/classification/dfs/medium/DecodeString394.java" />
-        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/BinarySearch704.java" />
-        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/RotateDigits788.java" />
-        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/PeakOfMountain852.java" />
-        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/DivideTwoInteger29.java" />
-        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/ReverseBits.java" />
-        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/NumberOf1Bits.java" />
-        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/NumberOf1Bits191.java" />
-        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/PowerOfTwo231.java" />
-        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/MissingNumber268.java" />
-        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/LetterCasePermutation784.java" />
-        <option value="$PROJECT_DIR$/src/classification/bitoperation/LetterCasePermutation784.java" />
-        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/LetterCasePermutation784.java" />
-        <option value="$PROJECT_DIR$/src/classification/bitoperation/medium/Subsets78.java" />
+        <option value="$PROJECT_DIR$/src/classification/dfs/medium/FlattenBinaryToList114.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/SearchInsertPosition35.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/SqrtX69.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/TwoSumInSortedArray167.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/FirstBadVersion278.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/IntersectionTwoArray439.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/IntersectionTwoArray350.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/ValidPerfectSquare367.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/GussNumber374.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/ArranginhCoins441.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/easy/Heaters475.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/midium/SearchSortedArray33.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/midium/SearchRange34.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/midium/Pow50.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/midium/SearchInMatrix74.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/midium/SearchInSortedArray81.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/midium/SearchMinInSortedArray153.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/midium/PeekElement162.java" />
+        <option value="$PROJECT_DIR$/src/classification/binarySearch/midium/MinSizeSubarraySum209.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/SingleNumber163.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/SingleNumber163.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/MajorElement169.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/PowerOfFour342.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/SumOfTwoIntegers371.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/FindDifference389.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/BinaryWatch401.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/DecimalToHex405.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/HammingDistance461.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/NumberComplement476.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/easy/AlternatingBits693.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/medium/SingleNumber137.java" />
+        <option value="$PROJECT_DIR$/src/classification/bitoperation/medium/RepeatedDNA187.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="185" />
-    <option name="y" value="55" />
-    <option name="width" value="1602" />
-    <option name="height" value="993" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="587" />
+    <option name="y" value="24" />
+    <option name="width" value="1286" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -216,130 +268,43 @@
         <subPane>
           <expand>
             <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classification" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classification" type="462c0819:PsiDirectoryNode" />
-              <item name="bfs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="classification" type="462c0819:PsiDirectoryNode" />
-              <item name="bfs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classification" type="462c0819:PsiDirectoryNode" />
-              <item name="bfs" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classification" type="462c0819:PsiDirectoryNode" />
-              <item name="binarySearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classification" type="462c0819:PsiDirectoryNode" />
-              <item name="binarySearch" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="classification" type="462c0819:PsiDirectoryNode" />
               <item name="bitoperation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="classification" type="462c0819:PsiDirectoryNode" />
               <item name="bitoperation" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classification" type="462c0819:PsiDirectoryNode" />
-              <item name="dfs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classification" type="462c0819:PsiDirectoryNode" />
-              <item name="dfs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="hard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-imurluck" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-imurluck" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -352,17 +317,132 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573744824813" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577027387988" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="classification.binarySearch.easy" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/classification/bitoperation/easy/LetterCasePermutation784.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/classification/bitoperation/medium/Subsets78.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -376,22 +456,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Subsets78">
-    <configuration name="BinaryTreePath257" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classification.dfs.easy.BinaryTreePath257" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classification.dfs.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DivideTwoInteger29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classification.binarySearch.easy.DivideTwoInteger29" />
+  <component name="RunManager" selected="Application.DecimalToHex405">
+    <configuration name="DecimalToHex405" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classification.bitoperation.easy.DecimalToHex405" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -403,12 +470,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseBits190" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classification.bitoperation.easy.ReverseBits190" />
+    <configuration name="MinSizeSubarraySum209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classification.binarySearch.midium.MinSizeSubarraySum209" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classification.bitoperation.easy.*" />
+          <option name="PATTERN" value="classification.binarySearch.midium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -416,12 +483,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateDigits788" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classification.binarySearch.easy.RotateDigits788" />
+    <configuration name="PeekElement162" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classification.binarySearch.midium.PeekElement162" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classification.bitoperation.easy.*" />
+          <option name="PATTERN" value="classification.binarySearch.midium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -429,12 +496,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsets78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classification.bitoperation.medium.Subsets78" />
+    <configuration name="SearchInSortedArray81" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classification.binarySearch.midium.SearchInSortedArray81" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classification.bitoperation.medium.*" />
+          <option name="PATTERN" value="classification.binarySearch.midium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchMinInSortedArray153" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classification.binarySearch.midium.SearchMinInSortedArray153" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classification.binarySearch.midium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -443,19 +523,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinaryTreePath257" />
-      <item itemvalue="Application.RotateDigits788" />
-      <item itemvalue="Application.DivideTwoInteger29" />
-      <item itemvalue="Application.ReverseBits190" />
-      <item itemvalue="Application.Subsets78" />
+      <item itemvalue="Application.SearchInSortedArray81" />
+      <item itemvalue="Application.SearchMinInSortedArray153" />
+      <item itemvalue="Application.PeekElement162" />
+      <item itemvalue="Application.MinSizeSubarraySum209" />
+      <item itemvalue="Application.DecimalToHex405" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Subsets78" />
-        <item itemvalue="Application.ReverseBits190" />
-        <item itemvalue="Application.DivideTwoInteger29" />
-        <item itemvalue="Application.RotateDigits788" />
-        <item itemvalue="Application.BinaryTreePath257" />
+        <item itemvalue="Application.DecimalToHex405" />
+        <item itemvalue="Application.MinSizeSubarraySum209" />
+        <item itemvalue="Application.PeekElement162" />
+        <item itemvalue="Application.SearchMinInSortedArray153" />
+        <item itemvalue="Application.SearchInSortedArray81" />
       </list>
     </recent_temporary>
   </component>
@@ -487,129 +567,234 @@
       <workItem from="1559702823179" duration="3932000" />
       <workItem from="1559817473927" duration="1803000" />
       <workItem from="1573741707291" duration="3541000" />
-      <workItem from="1573815527034" duration="36000" />
-      <workItem from="1573815614588" duration="8000" />
-      <workItem from="1573815635027" duration="8000" />
-      <workItem from="1573815653337" duration="16000" />
-      <workItem from="1573815682064" duration="4000" />
-      <workItem from="1573815695886" duration="52000" />
-      <workItem from="1573826879088" duration="1937000" />
-      <workItem from="1573907638920" duration="2193000" />
-      <workItem from="1573994406268" duration="1059000" />
-      <workItem from="1574238101863" duration="6000" />
-      <workItem from="1574598987561" duration="1946000" />
-      <workItem from="1575113881374" duration="1318000" />
-      <workItem from="1575196873923" duration="3072000" />
-      <workItem from="1575721563527" duration="1677000" />
-      <workItem from="1575798952147" duration="2800000" />
-      <workItem from="1576322868451" duration="1163000" />
-      <workItem from="1576404784340" duration="889000" />
-      <workItem from="1576927757656" duration="2575000" />
+      <workItem from="1573745272917" duration="184000" />
+      <workItem from="1574083968779" duration="9241000" />
+      <workItem from="1574172931428" duration="7707000" />
+      <workItem from="1574255636785" duration="2903000" />
+      <workItem from="1574348744357" duration="3148000" />
+      <workItem from="1574434974260" duration="1000000" />
+      <workItem from="1574510515070" duration="3217000" />
+      <workItem from="1574693164869" duration="2257000" />
+      <workItem from="1574778436954" duration="3590000" />
+      <workItem from="1574864923000" duration="3716000" />
+      <workItem from="1574951042737" duration="2176000" />
+      <workItem from="1575040159820" duration="3650000" />
+      <workItem from="1575297722458" duration="5642000" />
+      <workItem from="1575384077612" duration="2394000" />
+      <workItem from="1575470837123" duration="2195000" />
+      <workItem from="1575557318506" duration="1818000" />
+      <workItem from="1575644644959" duration="6220000" />
+      <workItem from="1575901933653" duration="6279000" />
+      <workItem from="1575986813159" duration="2547000" />
+      <workItem from="1576073289262" duration="3896000" />
+      <workItem from="1576163976960" duration="2239000" />
+      <workItem from="1576241379620" duration="954000" />
+      <workItem from="1576507894842" duration="1405000" />
+      <workItem from="1576593212184" duration="1631000" />
+      <workItem from="1576768992486" duration="1288000" />
+      <workItem from="1576854367131" duration="718000" />
+      <workItem from="1577024608358" duration="1749000" />
     </task>
-    <task id="LOCAL-00001" summary="[bfs]: 111, 429">
-      <created>1573828908749</created>
+    <task id="LOCAL-00001" summary="[bfs]: 101、107">
+      <created>1573745315809</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1573828908749</updated>
+      <updated>1573745315809</updated>
     </task>
-    <task id="LOCAL-00002" summary="[bfs]: 559，690">
-      <created>1573912525812</created>
+    <task id="LOCAL-00002" summary="[bfs]: 103、127(未做出来)">
+      <created>1574093264057</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1573912525813</updated>
+      <updated>1574093264057</updated>
     </task>
-    <task id="LOCAL-00003" summary="[bfs]: 559，690">
-      <created>1573912646691</created>
+    <task id="LOCAL-00003" summary="[bfs]: 130、133">
+      <created>1574180622939</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1573912646691</updated>
+      <updated>1574180622939</updated>
     </task>
-    <task id="LOCAL-00004" summary="[bfs]: 102。744">
-      <created>1574010930693</created>
+    <task id="LOCAL-00004" summary="[bfs]: 199,200">
+      <created>1574258483325</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1574010930693</updated>
+      <updated>1574258483325</updated>
     </task>
-    <task id="LOCAL-00005" summary="[bfs]: 112,257">
-      <created>1574601301935</created>
+    <task id="LOCAL-00005" summary="[bfs]: 207, 210">
+      <created>1574351878919</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1574601301935</updated>
+      <updated>1574351878919</updated>
     </task>
-    <task id="LOCAL-00006" summary="[bfs]: 116,117">
-      <created>1575116698170</created>
+    <task id="LOCAL-00006" summary="[dfs]: 100, 101">
+      <created>1574435952571</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1575116698170</updated>
+      <updated>1574435952571</updated>
     </task>
-    <task id="LOCAL-00007" summary="[bfs]: 337,394">
-      <created>1575201359906</created>
+    <task id="LOCAL-00007" summary="[dfs]: 108, 110">
+      <created>1574513716525</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1575201359906</updated>
+      <updated>1574513716525</updated>
     </task>
-    <task id="LOCAL-00008" summary="[bfs]: 704,788">
-      <created>1575740563963</created>
+    <task id="LOCAL-00008" summary="[dfs]: 110, 733">
+      <created>1574695367057</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1575740563963</updated>
+      <updated>1574695367057</updated>
     </task>
-    <task id="LOCAL-00009" summary="[bfs]: 29, 852">
-      <created>1575803498057</created>
+    <task id="LOCAL-00009" summary="[dfs]: 872, 897">
+      <created>1574783778742</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1575803498057</updated>
+      <updated>1574783778742</updated>
     </task>
-    <task id="LOCAL-00010" summary="[bfs]: 190, 191">
-      <created>1576324183431</created>
+    <task id="LOCAL-00010" summary="[dfs]: 98, 105">
+      <created>1574869589341</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1576324183431</updated>
+      <updated>1574869589341</updated>
     </task>
-    <task id="LOCAL-00011" summary="[bit]: 190, 191">
-      <created>1576324255681</created>
+    <task id="LOCAL-00011" summary="[dfs]: 106, 109">
+      <created>1574953195516</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1576324255681</updated>
+      <updated>1574953195516</updated>
     </task>
-    <task id="LOCAL-00012" summary="[bit]: 231, 268">
-      <created>1576405682593</created>
+    <task id="LOCAL-00012" summary="[dfs]: 113,114">
+      <created>1575043790485</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1576405682593</updated>
+      <updated>1575043790485</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="[binarySearch]: 35,69">
+      <created>1575303496264</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575303496264</updated>
+    </task>
+    <task id="LOCAL-00014" summary="[binarySearch]: 167,278">
+      <created>1575386454831</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1575386454832</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[binarySearch]: 349, 350">
+      <created>1575473012902</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1575473012902</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[binarySearch]: 367, 374">
+      <created>1575559121757</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1575559121758</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[binarySearch]: 441, 475">
+      <created>1575651012426</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1575651012426</updated>
+    </task>
+    <task id="LOCAL-00018" summary="[binarySearch]: 33, 34">
+      <created>1575908430378</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1575908430378</updated>
+    </task>
+    <task id="LOCAL-00019" summary="[binarySearch]: 50, 74">
+      <created>1575989582947</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1575989582947</updated>
+    </task>
+    <task id="LOCAL-00020" summary="[binarySearch]: 81, 153">
+      <created>1576077135645</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1576077135645</updated>
+    </task>
+    <task id="LOCAL-00021" summary="[binarySearch]: 162">
+      <created>1576165007429</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1576165007429</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[binarySearch]: 209">
+      <created>1576165981715</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1576165981715</updated>
+    </task>
+    <task id="LOCAL-00023" summary="[binarySearch]: 136, 169">
+      <created>1576242311067</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1576242311067</updated>
+    </task>
+    <task id="LOCAL-00024" summary="[binarySearch]: 342,371">
+      <created>1576509280348</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1576509280348</updated>
+    </task>
+    <task id="LOCAL-00025" summary="[binarySearch]: 389,401">
+      <created>1576594825918</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1576594825918</updated>
+    </task>
+    <task id="LOCAL-00026" summary="[binarySearch]: 405,461">
+      <created>1576770262419</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1576770262419</updated>
+    </task>
+    <task id="LOCAL-00027" summary="[binarySearch]: 476,693">
+      <created>1576855065508</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1576855065508</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84751000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="147756000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="587" y="24" width="1286" height="1056" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2739628" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27813506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -618,17 +803,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.27108434" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.43855423" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2918848" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37696335" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.21939954" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.26506025" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.3192771" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32650602" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.41482446" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.45680627" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3233831" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -639,413 +823,418 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Codota" order="9" weight="0.32978016" />
-      <window_info anchor="right" id="Maven" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[bfs]: 111, 429" />
-    <MESSAGE value="[bfs]: 559，690" />
-    <MESSAGE value="[bfs]: 102。744" />
-    <MESSAGE value="[bfs]: 112,257" />
-    <MESSAGE value="[bfs]: 116,117" />
-    <MESSAGE value="[bfs]: 337,394" />
-    <MESSAGE value="[bfs]: 704,788" />
-    <MESSAGE value="[bfs]: 29, 852" />
-    <MESSAGE value="[bfs]: 190, 191" />
-    <MESSAGE value="[bit]: 190, 191" />
-    <MESSAGE value="[bit]: 231, 268" />
-    <option name="LAST_COMMIT_MESSAGE" value="[bit]: 231, 268" />
+    <MESSAGE value="[bfs]: 130、133" />
+    <MESSAGE value="[bfs]: 199,200" />
+    <MESSAGE value="[bfs]: 207, 210" />
+    <MESSAGE value="[dfs]: 100, 101" />
+    <MESSAGE value="[dfs]: 108, 110" />
+    <MESSAGE value="[dfs]: 110, 733" />
+    <MESSAGE value="[dfs]: 872, 897" />
+    <MESSAGE value="[dfs]: 98, 105" />
+    <MESSAGE value="[dfs]: 106, 109" />
+    <MESSAGE value="[dfs]: 113,114" />
+    <MESSAGE value="[binarySearch]: 35,69" />
+    <MESSAGE value="[binarySearch]: 167,278" />
+    <MESSAGE value="[binarySearch]: 349, 350" />
+    <MESSAGE value="[binarySearch]: 367, 374" />
+    <MESSAGE value="[binarySearch]: 441, 475" />
+    <MESSAGE value="[binarySearch]: 33, 34" />
+    <MESSAGE value="[binarySearch]: 50, 74" />
+    <MESSAGE value="[binarySearch]: 81, 153" />
+    <MESSAGE value="[binarySearch]: 162" />
+    <MESSAGE value="[binarySearch]: 209" />
+    <MESSAGE value="[binarySearch]: 136, 169" />
+    <MESSAGE value="[binarySearch]: 342,371" />
+    <MESSAGE value="[binarySearch]: 389,401" />
+    <MESSAGE value="[binarySearch]: 405,461" />
+    <MESSAGE value="[binarySearch]: 476,693" />
+    <option name="LAST_COMMIT_MESSAGE" value="[binarySearch]: 476,693" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/medium/GenerateParenthese.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/PathSum112.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/BuildBinaryTree105.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="528">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/BinaryTreePath257.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/BuildBinaryTree106.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/PopulatingNextRightNode116.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/ImplementStrStr_28.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/common/kotlin/text/Strings.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4294">
-          <caret line="229" column="31" selection-start-line="229" selection-start-column="31" selection-end-line="229" selection-end-column="31" />
+        <state relative-caret-position="418">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/model/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/SortedArrayToBinarySearchTree108.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/SymmetricTree101.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/SortedListToBinarySearchTree109.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/PathSum113.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/model/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="198">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/PopulatingNextRightNode117.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/FlattenBinaryToList114.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="396">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bfs/easy/MinDeepTree111.java">
+    <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="40678">
+          <caret line="1908" column="31" selection-start-line="1908" selection-start-column="31" selection-end-line="1908" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bfs/easy/NTreeTraversal429.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/SqrtX69.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="264">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bfs/easy/SmallestLetterThanTarget744.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/TwoSumInSortedArray167.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="286">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bfs/easy/SymmetricTree101.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/BinaryTreePath257.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bfs/easy/TreeBottomUpTraversal107.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="37" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bfs/easy/TreeLevelTraversal102.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bfs/easy/ZigzagTreeOrderTraversal103.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bfs/medium/CourseSchedule207.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/DivideTwoInteger29.java" />
-    <entry file="file://$PROJECT_DIR$/src/classification/bfs/medium/CourseSchedulePlus210.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bfs/medium/IslandCount200.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
+        <state relative-caret-position="88">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bfs/medium/RightSideTree199.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/FirstBadVersion278.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        <state relative-caret-position="352">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/HouseRobber337.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/IntersectionTwoArray350.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="41" />
+        <state relative-caret-position="572">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/DecodeString394.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/ValidPerfectSquare367.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state relative-caret-position="242">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/BinarySearch704.java">
+    <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="11264">
+          <caret line="554" column="13" selection-start-line="554" selection-start-column="13" selection-end-line="554" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/RotateDigits788.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/GussNumber374.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        <state relative-caret-position="154">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/PeakOfMountain852.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/ArranginhCoins441.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="88">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/easy/RemoveDuplicatesFromSortArray.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/IntersectionTwoArray349.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="88">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/hard/MedianOfTwoSortedArrays.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/Heaters475.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        <state relative-caret-position="352">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/hard/RegularExpressionMatching.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/midium/DivideTwoInteger29.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        <state relative-caret-position="374">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/medium/Atoi.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/midium/Pow50.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        <state relative-caret-position="220">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/medium/ContainerWithMostWater.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/midium/SearchInMatrix74.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="396">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/easy/SearchInsertPosition35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/SameTree100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/midium/SearchSortedArray33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/midium/SearchRange34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/midium/SearchInSortedArray81.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/midium/SearchMinInSortedArray153.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/midium/PeekElement162.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/binarySearch/midium/MinSizeSubarraySum209.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/medium/DivideTwoIntegers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/medium/MergeKSortedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/medium/ThreeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/AddTwoNumbers.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/BasicCalculator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/medium/GenerateParenthese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/FloodFill733.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/RomanToInteger.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="452" column="18" selection-start-line="452" selection-start-column="18" selection-end-line="452" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="1002" column="24" selection-start-line="1002" selection-start-column="24" selection-end-line="1002" selection-end-column="24" />
-          <folding>
-            <element signature="e#38314#38315#0" expanded="true" />
-            <element signature="e#38353#38354#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/LetterCasePermutation784.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/MajorElement169.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/MissingNumber268.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/NumberOf1Bits191.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/PowerOfTwo231.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/ReverseBits190.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/SingleNumber136.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/medium/Subsets78.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/PowerOfFour342.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="286">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/SumOfTwoIntegers371.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/FindDifference389.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/MajorElement169.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/NumberOf1Bits191.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/BinaryWatch401.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/DecimalToHex405.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/HammingDistance461.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/NumberComplement476.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30360">
+          <caret line="1443" column="22" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/PathSum112.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/dfs/easy/LeafSimilarTree872.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="48" column="49" selection-start-line="40" selection-start-column="8" selection-end-line="48" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bfs/easy/MaxDeepTree559.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="44" column="43" selection-start-line="38" selection-start-column="8" selection-end-line="44" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bfs/easy/ZigzagTreeOrderTraversal103.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/easy/AlternatingBits693.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/medium/SingleNumber137.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/medium/RepeatedDNA187.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="18" selection-end-column="39" />
         </state>
       </provider>
     </entry>
