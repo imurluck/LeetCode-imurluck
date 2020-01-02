@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf40e62-f510-4264-bc1f-d3bb60f03460" name="Default Changelist" comment="[dp]: 121,198">
+    <list default="true" id="4cf40e62-f510-4264-bc1f-d3bb60f03460" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,12 +15,12 @@
     <session id="1211165704">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="47" />
+          <entry key="project.closed" value="48" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="10" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="5" />
-          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.13" value="5" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -29,14 +29,14 @@
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="8" />
           <entry key="project.open.time.9" value="8" />
-          <entry key="project.opened" value="48" />
+          <entry key="project.opened" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="132" />
+          <entry key="java" value="134" />
           <entry key="kt" value="22" />
           <entry key="xml" value="2" />
         </counts>
@@ -44,7 +44,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="132" />
+          <entry key="JAVA" value="134" />
           <entry key="Kotlin" value="22" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="2" />
@@ -53,16 +53,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="23" />
-          <entry key="java" value="42099" />
+          <entry key="java" value="43373" />
           <entry key="kt" value="6832" />
-          <entry key="txt" value="248" />
+          <entry key="txt" value="255" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="42099" />
+          <entry key="JAVA" value="43373" />
           <entry key="Kotlin" value="6832" />
-          <entry key="PLAIN_TEXT" value="271" />
+          <entry key="PLAIN_TEXT" value="278" />
         </counts>
       </usages-collector>
     </session>
@@ -70,32 +70,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/dp/easy/HouseRobber198.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/dp/medium/FillingBookcaseShelves1105.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="88">
+              <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classification/dp/medium/DecodeWays91.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/dp/medium/Triangle120.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="198">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
-                <element signature="e#554#555#0" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classification/dp/medium/FillingBookcaseShelves1105.java">
+        <entry file="file://$PROJECT_DIR$/src/classification/dp/medium/WordBreak139.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="310">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -194,8 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/classification/dfs/easy/BalanceBinaryTree110.java" />
-        <option value="$PROJECT_DIR$/src/classification/dfs/medium/MaxAeraOfIsland695.java" />
         <option value="$PROJECT_DIR$/src/classification/dfs/easy/FloodFill733.java" />
         <option value="$PROJECT_DIR$/src/classification/dfs/easy/LeafSimiliarTree872.java" />
         <option value="$PROJECT_DIR$/src/classification/dfs/easy/LeafSimilarTree872.java" />
@@ -245,6 +245,8 @@
         <option value="$PROJECT_DIR$/src/classification/dp/easy/HouseRobber198.java" />
         <option value="$PROJECT_DIR$/src/classification/dp/medium/DecodeWays91.java" />
         <option value="$PROJECT_DIR$/src/classification/dp/medium/FillingBookcaseShelves1105.java" />
+        <option value="$PROJECT_DIR$/src/classification/dp/medium/Triangle120.java" />
+        <option value="$PROJECT_DIR$/src/classification/dp/medium/WordBreak139.java" />
       </list>
     </option>
   </component>
@@ -255,9 +257,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="257" />
-    <option name="y" value="78" />
-    <option name="width" value="1346" />
+    <option name="x" value="255" />
+    <option name="y" value="75" />
+    <option name="width" value="1596" />
     <option name="height" value="971" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -269,6 +271,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -347,14 +350,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577718026400" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577977247482" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -366,122 +368,6 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="classification.binarySearch.easy" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/classification/dp/easy/IsSubsequence392.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/classification/dp/easy/MinCostClimbingStairs746.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/classification/dp/easy/MostCommonWord819.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/classification/dp/easy/NumArray303.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/classification/dp/easy/NumberOfLines806.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/classification/dp/easy/TwiceOfOthers747.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -495,26 +381,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FillingBookcaseShelves1105">
+  <component name="RunManager" selected="Application.WordBreak139">
     <configuration name="BestTimeBuyStock121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classification.dp.easy.BestTimeBuyStock121" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="classification.dp.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DecimalToHex405" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classification.bitoperation.easy.DecimalToHex405" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classification.bitoperation.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -548,12 +421,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumberIII260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classification.bitoperation.medium.SingleNumberIII260" />
+    <configuration name="Triangle120" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classification.dp.medium.Triangle120" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classification.bitoperation.medium.*" />
+          <option name="PATTERN" value="classification.dp.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordBreak139" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classification.dp.medium.WordBreak139" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classification.dp.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -562,19 +448,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DecimalToHex405" />
-      <item itemvalue="Application.SingleNumberIII260" />
       <item itemvalue="Application.BestTimeBuyStock121" />
       <item itemvalue="Application.DecodeWays91" />
       <item itemvalue="Application.FillingBookcaseShelves1105" />
+      <item itemvalue="Application.Triangle120" />
+      <item itemvalue="Application.WordBreak139" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordBreak139" />
+        <item itemvalue="Application.Triangle120" />
         <item itemvalue="Application.FillingBookcaseShelves1105" />
         <item itemvalue="Application.DecodeWays91" />
         <item itemvalue="Application.BestTimeBuyStock121" />
-        <item itemvalue="Application.SingleNumberIII260" />
-        <item itemvalue="Application.DecimalToHex405" />
       </list>
     </recent_temporary>
   </component>
@@ -635,7 +521,8 @@
       <workItem from="1577024608358" duration="1995000" />
       <workItem from="1577112425756" duration="2596000" />
       <workItem from="1577371410589" duration="2224000" />
-      <workItem from="1577712651362" duration="4761000" />
+      <workItem from="1577712651362" duration="4999000" />
+      <workItem from="1577972832778" duration="3843000" />
     </task>
     <task id="LOCAL-00001" summary="[bfs]: 101、107">
       <created>1573745315809</created>
@@ -854,17 +741,24 @@
       <option name="project" value="LOCAL" />
       <updated>1577374555709</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="[dp]: 91,1105">
+      <created>1577718104849</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1577718104849</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157583000" />
+    <option name="totallyTimeSpent" value="161664000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="492" y="100" width="1346" height="971" extended-state="0" />
+    <frame x="255" y="75" width="1596" height="971" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2607362" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2001287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -873,8 +767,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24817519" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3759124" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24817519" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4136253" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -902,7 +796,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[dfs]: 100, 101" />
     <MESSAGE value="[dfs]: 108, 110" />
     <MESSAGE value="[dfs]: 110, 733" />
     <MESSAGE value="[dfs]: 872, 897" />
@@ -927,7 +820,8 @@
     <MESSAGE value="[binarySearch]: 137,187" />
     <MESSAGE value="[bitoperation]: 201,260" />
     <MESSAGE value="[dp]: 121,198" />
-    <option name="LAST_COMMIT_MESSAGE" value="[dp]: 121,198" />
+    <MESSAGE value="[dp]: 91,1105" />
+    <option name="LAST_COMMIT_MESSAGE" value="[dp]: 91,1105" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -938,30 +832,10 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/classification/dp/medium/FillingBookcaseShelves1105.java</url>
-          <line>5</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/model/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dfs/medium/FlattenBinaryToList114.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40678">
@@ -1235,6 +1109,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/dp/easy/HouseRobber198.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classification/dp/medium/DecodeWays91.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/classification/bitoperation/medium/ANDOfNumbersRange201.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1290,28 +1178,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dp/easy/HouseRobber198.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dp/medium/FillingBookcaseShelves1105.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="88">
+          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dp/medium/DecodeWays91.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dp/medium/Triangle120.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="198">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
           <folding>
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classification/dp/medium/FillingBookcaseShelves1105.java">
+    <entry file="file://$PROJECT_DIR$/src/classification/dp/medium/WordBreak139.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="310">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
